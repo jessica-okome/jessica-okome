@@ -1,5 +1,8 @@
-https://github.com/jessica-okome/jessica-okome/blob/main/Banner%20%5BV.001%5D.png
+
+![Banner  V 001](https://github.com/jessica-okome/jessica-okome/assets/160756667/fefe0e9f-c1fe-4001-93b8-2475778f6186)
+
 ### Hi there! My name is Jessica👋 (Or you could call me J🤭) 
+
 I am an aspiring data scientist, with industrial experience as an analytical chemist. 
 I have had an interest in the world of data for a good couple of years, but recently have decided to take the plunge and start learning how to get started in this industry.
 Any tips, tricks, advice or criticism would be appreciated!
