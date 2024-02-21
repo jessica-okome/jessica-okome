@@ -5,6 +5,6 @@ Any tips, tricks, advice or criticism would be appreciated!
 - 🔭 I'm currently working on a beginners Python coding project.
 - 🌱 I’m currently learning how to use Python and some basic statistics.
 - 🤔 I’m looking for help with the best way to learn how to code, and how to know which skills are most important when trying to land a role as a data scientist.
-- 💬 Ask me about my interests, anything related to the chemical field, or music! (Could go on forever about the last one... so maybe not!)
+- 💬 Ask me about my interests, anything related to the chemical field, or music! (I could go on forever about the last one... so maybe not!)
 - 📫 How to reach me: Slide me a message on LinkedIn!
 [Pronouns: She/Her]
